@@ -16,4 +16,3 @@ This is a website for the Anzel acoustics lab. This repository contains common c
 ## Updating code
 
 In order to ensure that we don't accidentally mess up our colleagues code, I ask that for any changes that you make that you please create a branch for your work, and then open a pull request to merge your changes in. If you notice any problems with the code, you can also open an issue and we can figure out who would be the best person to solve it.
-
