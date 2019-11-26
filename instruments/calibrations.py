@@ -2,10 +2,10 @@
 # To test, run command
 # $ python force_sensors_code.py SENSORID
 force_sensors = {
-    'TEST': {
-        'forces': [2, 4, 6, 8, 10],
-        'voltages': [2, 4, 6, 8, 10]
-    }
+      'DUMMY': {
+        'forces':   [1, 2, 3, 4, 5],
+        'voltages': [1, 2, 3, 4, 5]
+    },
     'C300510': {
         'forces':   [10.0, 20.0, 30.0, 40.0, 50.0, 60.0],
         'voltages': [0.65, 1.31, 2.01, 2.80, 3.79, 4.92]
